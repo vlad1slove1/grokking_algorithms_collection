@@ -1,2 +1,2 @@
 ## Description
-Collection of exercises from book "Grokking algorithms" from Aditya Bhargava
+Collection of exercises from book "Grokking algorithms" author Aditya Bhargava
