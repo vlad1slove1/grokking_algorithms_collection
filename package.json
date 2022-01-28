@@ -1,0 +1,29 @@
+{
+  "name": "grokking_algorithms_collection",
+  "version": "1.0.0",
+  "description": "Collection for exercises from book Grokking algorithms",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlad1slove1/grokking_algorithms_collection.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Grokking-Algorithms"
+  ],
+  "author": "Vladislav Kishchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vlad1slove1/grokking_algorithms_collection/issues"
+  },
+  "homepage": "https://github.com/vlad1slove1/grokking_algorithms_collection#readme",
+  "devDependencies": {
+    "eslint": "^8.7.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4"
+  }
+}
